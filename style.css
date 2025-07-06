@@ -1,0 +1,53 @@
+body {
+  background: #fef8f5;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  background: #ffe4ec;
+  padding: 30px 0;
+  border-radius: 12px;
+}
+
+.bio {
+  font-style: italic;
+  color: #5c5c5c;
+}
+
+.image-section {
+  text-align: center;
+  margin: 30px 0;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.links a {
+  color: #d63384;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.fun-facts ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.8rem;
+  color: #777;
+}
